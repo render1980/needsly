@@ -1,0 +1,1 @@
+{"inputs":["/home/db/go/src/needsly/web/*/index.html","/home/db/go/src/needsly/web/flutter_bootstrap.js","/home/db/flutter/bin/cache/engine.stamp"],"outputs":["/home/db/go/src/needsly/build/web/*/index.html","/home/db/go/src/needsly/build/web/flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"},{}]"}
